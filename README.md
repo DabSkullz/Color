@@ -1,6 +1,6 @@
 # Color By DabSkullz v1.0
 
-Don't Know which color to use for your WebSite?
+Don't Know which color to use for your Website?
 
 Use Color By DabSkullz
 
